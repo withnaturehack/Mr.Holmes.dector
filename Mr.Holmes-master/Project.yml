@@ -1,0 +1,14 @@
+# YAML EXPLANATION FILE #
+
+Name: Mr.Holmes
+Languages: Python,Shell-script,Javascript,Php,Css,Powershell,Batch,C++,Java
+Python-Version: Python 3 
+Original karzo: karzo (hackwithnature)
+Author: karzo (hackwithnature)
+Copyright: (C) 2025-26 hackwithnature <withnaturehack@gmail.com>
+Copyright-Years: 2025,2026
+Project-site: https://hackwithnature.github.io/Mr.Holmes
+Download: git clone https://github.com/hackwithnature/Mr.Holmes
+Platforms: Linux/MacOS/Termux/Windows
+Version: T.G.D-1.0.4
+License: GNU General Public License v3.0
